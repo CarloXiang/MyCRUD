@@ -8,6 +8,15 @@ README
 
 
 ===========================
+# Setup MySQL
+# Setup and Configure JDK
+# Setup and Configure Maven
+# Setup IntellijIDEA
+# Maven Project
+# Spring MVC
+# Shiro
+# GitHub
+# GitHub Flavored Markdown
 # Functional
 ## User Login
 ## User Register
