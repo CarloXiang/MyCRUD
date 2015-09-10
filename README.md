@@ -8,16 +8,16 @@ README
 
 
 ===========================
-1.	Setup and Configure JDK
-1.1.	Download JDK
-1.2.	Setup JDK
-1.3.	Configure JDK
-	Set System Variable, e.g.,
-	JAVA_HOME=C:\Program Files\Java\jdk1.8.0_45
-	CLASSPATH=.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
-	PATH=;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
-2.	Setup Tomcat
-3.	Setup and Configure MySQL
+#Setup and Configure JDK
+##Download JDK
+##Setup JDK
+##Configure JDK
+*Set System Variable, e.g.,
+   *AVA_HOME=C:\Program Files\Java\jdk1.8.0_45
+	*CLASSPATH=.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+	*PATH=;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+#Setup Tomcat
+#Setup and Configure MySQL
 3.1.	Download MySQL
 3.2.	Setup MySQL
 3.3.	Configure MySQL
