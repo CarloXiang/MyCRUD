@@ -19,14 +19,15 @@ README
 
 #Setup Tomcat
 #Setup and Configure MySQL
-3.1.	Download MySQL
-3.2.	Setup MySQL
-3.3.	Configure MySQL
-	Set System Variable
-	PATH= C:\MYSQL\mysql-5.6.26-winx64\mysql-5.6.26-winx64\bin;
-	Install and start
-	C:\>mysqld install
-	C:\>net start mysql
+##Download MySQL
+##Setup MySQL
+##Configure MySQL
+* Set System Variable
+  * PATH= C:\MYSQL\mysql-5.6.26-winx64\mysql-5.6.26-winx64\bin;
+  * install and start
+    * C:\>mysqld install
+    * C:\>net start mysql
+
 4.	GitHub
 4.1.	Setup Git Windows Client Tools
 	Setup msysgit, e.g., Git-1.9.5-preview20141217.exe
