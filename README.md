@@ -14,8 +14,8 @@ README
 ##Configure JDK
 * Set System Variable, e.g.,
    * JAVA_HOME=C:\Program Files\Java\jdk1.8.0_45
-	* CLASSPATH=.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
-	* PATH=;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+   * CLASSPATH=.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+   * * PATH=;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
 #Setup Tomcat
 #Setup and Configure MySQL
 3.1.	Download MySQL
