@@ -59,14 +59,14 @@ README
 ##User register
 ##User logout
 ##Admin login
-* Admin login workflow
-  * http://localhost:8081/rest/admin/adminlogin
-  * Username: admin
-  * Password: 123456
+* http://localhost:8081/rest/admin/adminlogin
+* Username: admin
+* Password: 123456
 
 ##Admin add user
 ##Admin manager user
 * User list
 * Edit User
 * Delete User
+
 ##Admin logout
