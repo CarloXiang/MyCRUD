@@ -39,15 +39,15 @@ README
 * [Git Clone…]-[URL: https://github.com/lacelove/MyCRUD]
 
 #Run Application
-* Setup IntellijIDEA
+* **Setup IntellijIDEA**
 * **Open Project in IntellijIDEA**: [File]-[Open]-[MyCRUD.iml]
-* Set Tomcat home directory in IntellijIDEA: [Run]-[Run…]-[Edit Configuration…]-[Tomcat Server]-[Tomcat]-[Application server]-[Configure…]-[Tomcate Home: C:\Program Files\Apache Software Foundation\Tomcat 8.0]
-* Set Java SDK in IntellijIDEA: [File]-[Project Structure]-[Project Setting]-[Modules]-[New…]-[JDK]-[select java jdk home directory, e.g., C:\Program Files\Java\jdk1.8.0_45]
-* Create database in MySQL:
+* **Set Tomcat home directory in IntellijIDEA**: [Run]-[Run…]-[Edit Configuration…]-[Tomcat Server]-[Tomcat]-[Application server]-[Configure…]-[Tomcate Home: C:\Program Files\Apache Software Foundation\Tomcat 8.0]
+* **Set Java SDK in IntellijIDEA**: [File]-[Project Structure]-[Project Setting]-[Modules]-[New…]-[JDK]-[select java jdk home directory, e.g., C:\Program Files\Java\jdk1.8.0_45]
+* **Create database in MySQL**:
   * C:\>mysql –uroot –p
   * mysql>source MyCRUD.sql 
     * the MyCRUD.sql exists in the source file: \src\test\resources\MyCRUD.sql
-* Run: [Run]-[Run ‘Tomcat’]
+* **Run**: [Run]-[Run ‘Tomcat’]
 
 #Functional
 ##User login
